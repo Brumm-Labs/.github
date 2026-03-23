@@ -33,9 +33,9 @@ We produce podcasts for businesses — from concept to published feed. Audio is 
 
 Brumm Labs was founded in Hamburg in 2026. Two Björns, one goal: build digital products that work for real businesses.
 
-**Björn Gaworski-Dammann** — Builds products and writes code. Full-stack developer with experience in product management and AI. Responsible for tech and product vision.
-
 **Björn Bauer** — Brings products to market. Background in pre-sales and marketing. Responsible for clients, sales, and positioning.
+
+**Björn Gaworski-Dammann** — Designs and builds products. Product manager and product designer with a technical background. Responsible for product vision, design, and tech.
 
 ---
 

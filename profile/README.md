@@ -41,4 +41,4 @@ Brumm Labs was founded in Hamburg in 2026. Two Björns, one goal: build digital 
 
 ## Get in touch
 
-hallo@brummlabs.de · Hamburg, Germany
+hello@brummlabs.de · Hamburg, Germany

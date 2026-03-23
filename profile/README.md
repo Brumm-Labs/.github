@@ -1,44 +1,44 @@
 # Brumm Labs
 
-**Wir bauen digitale Produkte. Schnell, mit AI, für den Mittelstand.**
+**We build digital products. Fast, AI-powered, for real businesses.**
 
-Brumm Labs ist ein Inkubator für SaaS und AI-Tools aus Hamburg. Wir entwickeln eigene Produkte und helfen Unternehmen, AI in ihre Workflows zu bringen.
+Brumm Labs is a Hamburg-based incubator for SaaS and AI tools. We build our own products and help companies put AI to work.
 
 ---
 
-## Was wir tun
+## What we do
 
-### Produkte
-Wir bauen SaaS-Tools und AI-Anwendungen, die wir selbst nutzen und dann an den Markt bringen. Vom ersten Prototyp bis zum laufenden Produkt — alles aus einer Hand.
+### Products
+We build SaaS tools and AI applications that we use ourselves before bringing them to market. From first prototype to running product — everything in-house.
 
 ### AI Enablement
-Wir helfen Teams, AI in ihre tägliche Arbeit zu integrieren. Keine Foliendecks, keine Theorie. Wir setzen uns hin, schauen uns eure Prozesse an und zeigen, was mit AI heute schon geht.
+We help teams integrate AI into their daily work. No slide decks, no theory. We sit down, look at your processes, and show you what AI can do for you today.
 
-### Podcast-Produktion
-Wir produzieren Podcasts für Unternehmen — von der Konzeption bis zum fertigen Feed. Audio ist unser Heimatmedium und die Basis für mehrere unserer Produkte.
-
----
-
-## Wie wir arbeiten
-
-**AI-first.** AI ist kein Feature, das wir draufschrauben. Jedes Produkt und jede Dienstleistung bei Brumm Labs wird von Anfang an mit AI gedacht.
-
-**Lean.** Kein Venture Capital, keine Investoren-Deadlines. Wir wachsen mit dem, was wir verdienen. Das hält uns fokussiert und ehrlich gegenüber unseren Kunden.
-
-**Schnell.** Wir sind zwei Gründer, die beide selbst umsetzen können. Keine Abstimmungsschleifen, kein Agentur-Overhead. Von der Idee zum lauffähigen Prototyp in Tagen, nicht Monaten.
+### Podcast Production
+We produce podcasts for businesses — from concept to published feed. Audio is our home medium and the foundation for several of our products.
 
 ---
 
-## Wer wir sind
+## How we work
 
-Brumm Labs wurde 2026 in Hamburg gegründet. Zwei Björns, ein Ziel: digitale Produkte bauen, die für den Mittelstand funktionieren.
+**AI-first.** AI is not a feature we bolt on. Every product and service at Brumm Labs is designed with AI from the start.
 
-**Björn Gaworski-Dammann** — Baut Produkte und schreibt Code. Full-Stack-Entwickler mit Erfahrung in Produktmanagement und AI. Verantwortlich für Technik und Produktvision.
+**Lean.** No venture capital, no investor deadlines. We grow on what we earn. That keeps us focused and honest with our clients.
 
-**Björn Bauer** — Bringt Produkte an den Markt. Hintergrund in Pre-Sales und Marketing. Verantwortlich für Kunden, Vertrieb und Positionierung.
+**Fast.** We are two founders who both build. No approval chains, no agency overhead. From idea to working prototype in days, not months.
 
 ---
 
-## Kontakt
+## Who we are
 
-hallo@brummlabs.de · Hamburg, Deutschland
+Brumm Labs was founded in Hamburg in 2026. Two Björns, one goal: build digital products that work for real businesses.
+
+**Björn Gaworski-Dammann** — Builds products and writes code. Full-stack developer with experience in product management and AI. Responsible for tech and product vision.
+
+**Björn Bauer** — Brings products to market. Background in pre-sales and marketing. Responsible for clients, sales, and positioning.
+
+---
+
+## Get in touch
+
+hallo@brummlabs.de · Hamburg, Germany
